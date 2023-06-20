@@ -26,6 +26,3 @@ Para explorar o projeto do sistema solar em seu navegador, siga estas etapas sim
 5. Passe o mouse sobre um planeta para ver informações básicas sobre ele.
 6. Clique no botão de pausa para interromper a animação e examinar os planetas em detalhes.
 
-### 😎Contribuindo:
-Atualmente, o projeto não aceita contribuições externas. No entanto, sinta-se à vontade para explorar o código-fonte e utilizá-lo como referência para criar seu próprio modelo interativo do sistema solar.
-Esperamos que você aproveite a experiência de explorar o sistema solar por meio deste projeto. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato conosco. Agradecemos por seu interesse no projeto Sistema Solar e desejamos uma jornada fascinante pelo espaço!
