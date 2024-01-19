@@ -1,10 +1,11 @@
-# PROJETO-SISTEMA-SOLAR
+# SISTEMA SOLAR
 😏USE ESSE CÓDIGO EM HTML E CSS PARA VER OS PLANETAS ORBITANDO O SOL.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://images.vexels.com/media/users/3/203408/isolated/lists/0f7ad5373bdbe3c3ea6defb24c74087d-ilustracao-do-sistema-solar.png" align="center" width="250"> <br>
+<img src="FOTO.png" align="center" width="450"> <br>
+> OS PLANETAS SE MOVEM AO REDOR DO SOL NO SENTIDO HORÁRIO!
 
 ## ☺DESCRIÇÃO:
 Bem-vindo ao projeto "Sistema Solar"! Este repositório contém uma implementação interativa de um modelo do sistema solar em HTML, CSS e JavaScript. O projeto permite explorar e aprender sobre os planetas do nosso sistema solar.
@@ -25,4 +26,3 @@ Para explorar o projeto do sistema solar em seu navegador, siga estas etapas sim
 4. Observe os planetas movendo-se em suas órbitas ao redor do sol.
 5. Passe o mouse sobre um planeta para ver informações básicas sobre ele.
 6. Clique no botão de pausa para interromper a animação e examinar os planetas em detalhes.
-
