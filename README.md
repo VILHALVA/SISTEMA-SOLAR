@@ -1,28 +1,44 @@
 # SISTEMA SOLAR
 😏USE ESSE CÓDIGO EM HTML E CSS PARA VER OS PLANETAS ORBITANDO O SOL.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
-<img src="FOTO.png" align="center" width="450"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 > OS PLANETAS SE MOVEM AO REDOR DO SOL NO SENTIDO HORÁRIO!
 
-## ☺DESCRIÇÃO:
-Bem-vindo ao projeto "Sistema Solar"! Este repositório contém uma implementação interativa de um modelo do sistema solar em HTML, CSS e JavaScript. O projeto permite explorar e aprender sobre os planetas do nosso sistema solar.
-
-### 👽Funcionalidades:
+## DESCRIÇÃO:
 O objetivo deste projeto é oferecer uma representação visual e interativa do sistema solar. Aqui estão as principais funcionalidades implementadas:
 - **Modelo em 2D**: O projeto exibe um modelo interativo do sistema solar, mostrando os planetas em suas órbitas ao redor do sol.
 - **Visualização realista**: Cada planeta é representado por uma imagem realista correspondente, capturando a aparência distinta de cada um deles.
 - **Movimento orbital**: Os planetas se movem em suas órbitas, obedecendo às suas velocidades e distâncias reais em relação ao sol.
-- **Interatividade**: Os usuários podem pausar e retomar a animação do modelo, permitindo explorar detalhes dos planetas individualmente.
 - **Informações adicionais**: O modelo não só oferece uma visualização impressionante do sistema solar, mas também fornece informações básicas sobre cada planeta.
 
-### 🤗Como usar o Projeto Sistema Solar?
-Para explorar o projeto do sistema solar em seu navegador, siga estas etapas simples:
-1. Clone este repositório em sua máquina local ou faça o download dos arquivos.
-2. Abra o arquivo `SISTEMA.html` em seu navegador de preferência.
-3. O modelo do sistema solar será carregado em seu navegador.
-4. Observe os planetas movendo-se em suas órbitas ao redor do sol.
-5. Passe o mouse sobre um planeta para ver informações básicas sobre ele.
-6. Clique no botão de pausa para interromper a animação e examinar os planetas em detalhes.
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/SISTEMA-SOLAR.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd SISTEMA-SOLAR
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip SISTEMA-SOLAR.zip
+```
+* Abra o arquivo `SISTEMA.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+
+
+
