@@ -1,4 +1,4 @@
-# SISTEMA SOLAR
+# SISTEMA SOLAR VOLUME 2
 😏USE ESSE CÓDIGO EM HTML E CSS PARA VER OS PLANETAS ORBITANDO O SOL.
 
 <img src="FOTO.png" align="center" width="500"> <br>
@@ -15,21 +15,21 @@ O objetivo deste projeto é oferecer uma representação visual e interativa do 
 * Clone o repositório para o seu sistema local:
 
 ```bash
-git clone https://github.com/VILHALVA/SISTEMA-SOLAR.git
+git clone https://github.com/VILHALVA/SISTEMA-SOLAR-VOLUME-2.git
 ```
 
 * Navegue até o diretório do projeto.
 
 ```bash
-cd SISTEMA-SOLAR
+cd SISTEMA-SOLAR-VOLUME-2
 ```
 
 * Descompacte o arquivo ZIP (se você baixou manualmente):
 
 ```bash
-unzip SISTEMA-SOLAR.zip
+unzip SISTEMA-SOLAR-VOLUME-2.zip
 ```
-* Abra o arquivo `SISTEMA.html` em seu navegador de preferência.
+* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
@@ -40,6 +40,5 @@ unzip SISTEMA-SOLAR.zip
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
 
 
