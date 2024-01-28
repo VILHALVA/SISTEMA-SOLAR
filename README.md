@@ -8,8 +8,6 @@
 O objetivo deste projeto é oferecer uma representação visual e interativa do sistema solar. Aqui estão as principais funcionalidades implementadas:
 - **Modelo em 2D**: O projeto exibe um modelo interativo do sistema solar, mostrando os planetas em suas órbitas ao redor do sol.
 - **Visualização realista**: Cada planeta é representado por uma imagem realista correspondente, capturando a aparência distinta de cada um deles.
-- **Movimento orbital**: Os planetas se movem em suas órbitas, obedecendo às suas velocidades e distâncias reais em relação ao sol.
-- **Informações adicionais**: O modelo não só oferece uma visualização impressionante do sistema solar, mas também fornece informações básicas sobre cada planeta.
 
 ## COMO USAR?
 * Clone o repositório para o seu sistema local:
